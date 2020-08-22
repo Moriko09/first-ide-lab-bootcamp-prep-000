@@ -1,4 +1,4 @@
-# Your First IDE Lab
+<p>
 
 <div class="readme-content-test--hide-when-active">
 
